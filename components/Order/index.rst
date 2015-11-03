@@ -4,10 +4,10 @@ Order
 E-Commerce PHP library for creating and managing sales orders.
 
 .. toctree::
-   :maxdepth: 2
+   :numbered:
 
    installation
-   basic_usage
-   models
-   interfaces
-   state_machine
+   order_and_items
+   adjustments
+   order_states
+   summary
